@@ -18,16 +18,16 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
+      text: '论坛',
+      url: 'https://bbs.wysteam.cn'
     },
     {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      text: 'Fatmc',
+      url: 'https://fatmc.cn'
     },
     {
-      text: 'Blog',
-      url: 'https://abo.xyz/'
+      text: 'HAOZI',
+      url: 'https://hz.wysteam.cn'
     },
   ],
 };
