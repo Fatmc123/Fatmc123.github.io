@@ -6,11 +6,11 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'u2285523-8dd05924f3a4ad22e277d1ee',
+    'm795191867-269390483fc5cc4e377f2ee5',
   ],
 
   // 日志天数
-  CountDays: 90,
+  CountDays: 60,
 
   // 是否显示检测站点的链接
   ShowLink: true,
@@ -22,8 +22,8 @@ window.Config = {
       url: 'https://bbs.wysteam.cn'
     },
     {
-      text: 'Fatmc',
-      url: 'https://fatmc.cn'
+      text: '临云',
+      url: 'https://0mst.cn'
     },
     {
       text: 'HAOZI',
